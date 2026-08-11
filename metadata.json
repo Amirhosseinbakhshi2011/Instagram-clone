@@ -1,0 +1,6 @@
+{
+  "name": "Amira",
+  "description": "Next-generation social media platform for creative expression, rich media, stories, messaging, and AI content creation by Amirhossein Bakhshi.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
